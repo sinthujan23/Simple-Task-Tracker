@@ -1,6 +1,6 @@
 # Simple Task Tracker
 
-A full-stack task tracking application built with **Flutter** (Frontend) and **PHP/Laravel** (Backend).
+A full-stack task tracking application built with **Flutter** (Frontend) and **Laravel** (Backend).
 
 ## 🚀 Setup Steps
 
